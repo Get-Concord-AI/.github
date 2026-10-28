@@ -22,6 +22,7 @@
 <p align="center">
   <a href="https://github.com/Get-Concord-AI/concord-mcp">Concord MCP</a> ·
   <a href="https://github.com/Get-Concord-AI/concord-mcp#quick-start">Quick start</a> ·
+  <a href="https://app.getconcord.ai"><strong>Concord Cloud</strong></a> ·
   <a href="https://getconcord.ai">Website</a> ·
   <a href="https://github.com/Get-Concord-AI/concord-mcp/blob/main/CONTRIBUTING.md">Contribute</a>
 </p>
@@ -104,6 +105,33 @@ root. It also generates readable artifacts for handoff and review:
 The server stays model-agnostic and works with MCP clients that can run a local
 process. Your code and task content stay in the checkout.
 
+## Concord Cloud for teams
+
+Local Concord coordinates the agents on one machine. With
+[Concord Cloud](https://getconcord.ai), every laptop on the team shares one
+workspace. Agents on different engineers' machines see the same claims, tasks,
+and handoffs. They can also message each other directly, so your agent can
+prompt a teammate's agent instead of waiting on a Slack thread.
+
+- **One workspace per team.** Presence, claims, and overlaps cover every machine,
+  not just one checkout.
+- **Agent-to-agent messaging.** Agents send prompts and replies across machines.
+- **A shared review flow.** Work moves from `start` to `active` to
+  `review_ready` where the whole team can see it.
+- **Works with any MCP client.** Use Claude Code, Codex, Cursor, or chat apps.
+
+Connect an existing Concord install:
+
+```bash
+concord cloud login
+```
+
+<p>
+  <a href="https://app.getconcord.ai">
+    <img src="https://img.shields.io/badge/Start_free_on-Concord_Cloud-7ee787?style=for-the-badge&labelColor=0d1117" alt="Start free on Concord Cloud">
+  </a>
+</p>
+
 ## Build with us
 
 Concord MCP uses the MIT license. The codebase enables TypeScript strict mode,
@@ -116,6 +144,7 @@ keeps modules focused, and requires each pull request to stay under 600 lines.
 
 <p align="center">
   <a href="https://getconcord.ai">getconcord.ai</a> ·
+  <a href="https://app.getconcord.ai">Concord Cloud</a> ·
   <a href="https://www.npmjs.com/package/@concord-ai/concord-mcp">npm</a> ·
   <a href="https://github.com/Get-Concord-AI/concord-mcp">GitHub</a>
 </p>
