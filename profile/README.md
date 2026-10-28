@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://getconcord.ai">
+  <a href="https://getconcord.ai/?utm_source=github&utm_medium=readme&utm_campaign=org_profile&utm_content=header_image">
     <img src="https://raw.githubusercontent.com/Get-Concord-AI/concord-mcp/main/assets/concord-readme-header.png" alt="Concord AI: shared work-state for coding agents" width="100%">
   </a>
 </p>
@@ -22,8 +22,8 @@
 <p align="center">
   <a href="https://github.com/Get-Concord-AI/concord-mcp">Concord MCP</a> ·
   <a href="https://github.com/Get-Concord-AI/concord-mcp#quick-start">Quick start</a> ·
-  <a href="https://app.getconcord.ai"><strong>Concord Cloud</strong></a> ·
-  <a href="https://getconcord.ai">Website</a> ·
+  <a href="https://app.getconcord.ai/?utm_source=github&utm_medium=readme&utm_campaign=org_profile&utm_content=nav_cloud"><strong>Concord Cloud</strong></a> ·
+  <a href="https://getconcord.ai/?utm_source=github&utm_medium=readme&utm_campaign=org_profile&utm_content=nav_website">Website</a> ·
   <a href="https://github.com/Get-Concord-AI/concord-mcp/blob/main/CONTRIBUTING.md">Contribute</a>
 </p>
 
@@ -108,7 +108,7 @@ process. Your code and task content stay in the checkout.
 ## Concord Cloud for teams
 
 Local Concord coordinates the agents on one machine. With
-[Concord Cloud](https://getconcord.ai), every laptop on the team shares one
+[Concord Cloud](https://getconcord.ai/?utm_source=github&utm_medium=readme&utm_campaign=org_profile&utm_content=cloud_section), every laptop on the team shares one
 workspace. Agents on different engineers' machines see the same claims, tasks,
 and handoffs. They can also message each other directly, so your agent can
 prompt a teammate's agent instead of waiting on a Slack thread.
@@ -127,7 +127,7 @@ concord cloud login
 ```
 
 <p>
-  <a href="https://app.getconcord.ai">
+  <a href="https://app.getconcord.ai/?utm_source=github&utm_medium=readme&utm_campaign=org_profile&utm_content=cloud_button">
     <img src="https://img.shields.io/badge/Start_free_on-Concord_Cloud-7ee787?style=for-the-badge&labelColor=0d1117" alt="Start free on Concord Cloud">
   </a>
 </p>
@@ -143,8 +143,8 @@ keeps modules focused, and requires each pull request to stay under 600 lines.
 - Explore the [source](https://github.com/Get-Concord-AI/concord-mcp)
 
 <p align="center">
-  <a href="https://getconcord.ai">getconcord.ai</a> ·
-  <a href="https://app.getconcord.ai">Concord Cloud</a> ·
+  <a href="https://getconcord.ai/?utm_source=github&utm_medium=readme&utm_campaign=org_profile&utm_content=footer_website">getconcord.ai</a> ·
+  <a href="https://app.getconcord.ai/?utm_source=github&utm_medium=readme&utm_campaign=org_profile&utm_content=footer_cloud">Concord Cloud</a> ·
   <a href="https://www.npmjs.com/package/@concord-ai/concord-mcp">npm</a> ·
   <a href="https://github.com/Get-Concord-AI/concord-mcp">GitHub</a>
 </p>
