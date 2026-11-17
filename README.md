@@ -27,6 +27,15 @@
   <a href="https://github.com/Get-Concord-AI/concord-mcp/blob/main/CONTRIBUTING.md">Contribute</a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/company/136146367" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="LinkedIn" width="48" height="48">
+  </a>
+  <a href="https://x.com/GetConcordAI" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="48" height="48">
+  </a>
+</p>
+
 ## Shared work-state for coding agents
 
 Open several coding agents in one checkout and their chat sessions cannot tell
